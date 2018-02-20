@@ -3,11 +3,12 @@ Generate a random deck of cards based on probabilities you set (must add to 100%
 
 # usage
 
-check examples.py
+check example.py, friend
 
 # why
 
 it's neat and I want to find ways to improve the speed
+
 also it's useful for testing all sorts of stats data
 
 # updates
